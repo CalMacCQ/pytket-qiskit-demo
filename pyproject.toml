@@ -1,0 +1,16 @@
+[tool.poetry]
+package-mode = false
+name = "pytket-qiskit-demo"
+version = "0.1.0"
+description = "Demo of pytket-qiskit extension for qiskit demo day"
+authors = ["CalMacCQ <93673602+CalMacCQ@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytket-qiskit = "^0.51.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
