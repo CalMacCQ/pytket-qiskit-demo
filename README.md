@@ -22,7 +22,7 @@ The main packages required are
 * pytket-qiskit
 * pytket-quantinuum
 
-If you have poetry set up on your machine simply clone the repository and install the dependencies locally. The three packages listed above are also easily installed with `pip`.
+If you have [poetry](https://python-poetry.org/docs/) set up on your machine simply clone the repository and install the dependencies locally. The three packages listed above are also easily installed with `pip`.
 
 ```shell
 poetry install
