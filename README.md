@@ -9,7 +9,7 @@ Notebook and slides for qiskit demo day presentation.
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://quantumcomputing.stackexchange.com/tags/pytket)
 
 * [pytket API docs](https://tket.quantinuum.com/api-docs)
-* [pytket-qiskit API docs](https://tket.quantinuum.com/pytket-qiskit)
+* [pytket-qiskit API docs](https://tket.quantinuum.com/extensions/pytket-qiskit)
 * [User manual](https://tket.quantinuum.com/user-manual) 
 * [Example notebooks](https://tket.quantinuum.com/examples)
 
